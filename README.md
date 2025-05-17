@@ -26,3 +26,4 @@ npm start
 
 💡 Optimize the testnet experience - save time, increase efficiency!
 #PharosNetwork #Testnet #AutoTool #CryptoCommunity #PHRS #DeFiTools #NodeJS #AirdropHunting
+Credit by dancay
