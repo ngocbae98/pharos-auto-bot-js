@@ -12,13 +12,17 @@ Just a few simple steps and you can:
 
 1️⃣ Install the required module:
 npm install
+
 2️⃣ Create a wallet.txt file and paste your wallet private key into it.
+
 3️⃣ Create a proxy.txt file with the format:
 http://user:pass@ip:port
+
 4️⃣ Create a random user-agent:
 node agent.js
+
 5️⃣ Run the tool:
 npm start
-💡 Optimize the testnet experience - save time, increase efficiency!
 
+💡 Optimize the testnet experience - save time, increase efficiency!
 #PharosNetwork #Testnet #AutoTool #CryptoCommunity #PHRS #DeFiTools #NodeJS #AirdropHunting
